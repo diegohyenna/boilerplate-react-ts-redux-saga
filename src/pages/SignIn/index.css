@@ -1,0 +1,35 @@
+.sign-in-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.sign-in-page img {
+  width: 50%;
+  height: 50%;
+  max-width: 400px;
+  max-height: 400px;
+}
+
+.sign-in-page input {
+  height: 40px;
+  width: 400px;
+  max-width: 400px;
+  margin-bottom: 20px;
+  padding: 4px 10px;
+  background-color: #ddd;
+  border: none;
+  border-radius: 4px;
+}
+
+.sign-in-page button {
+  height: 40px;
+  width: 100%;
+  max-width: 420px;
+  border: none;
+  background-color: blueviolet;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+}
