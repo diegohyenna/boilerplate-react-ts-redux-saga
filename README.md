@@ -15,7 +15,7 @@
 
 ## Instalação
 
-`git clone `
+`git clone git@github.com:diegohyenna/boilerplate-react-ts-redux-saga.git`
 
 na pasta raíz
 `npm install`
